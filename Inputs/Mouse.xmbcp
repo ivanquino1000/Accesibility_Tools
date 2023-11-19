@@ -84,7 +84,7 @@
 		<Left action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" randomisedelay="false" app="" desc="">
 			<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 		</Left>
-		<Right action="40" keys="{SHIFT}{F9}" keyaction="0" keyrepeat="0" active="false" blockmouse="false" randomisedelay="false" app="" desc="">
+		<Right action="40" keys="{SHIFT}{F9}" keyaction="2" keyrepeat="34" active="true" blockmouse="true" randomisedelay="false" app="" desc="">
 			<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 		</Right>
 		<Middle action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" randomisedelay="false" app="" desc="">
@@ -96,10 +96,10 @@
 		<XRight action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" randomisedelay="false" app="" desc="">
 			<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 		</XRight>
-		<TiltLeft action="40" keys="{shift}{f2}" keyaction="0" keyrepeat="0" active="false" blockmouse="true" randomisedelay="false" app="" desc="">
+		<TiltLeft action="40" keys="{shift}{f2}" keyaction="2" keyrepeat="34" active="true" blockmouse="true" randomisedelay="false" app="" desc="">
 			<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 		</TiltLeft>
-		<TiltRight action="40" keys="{CTRL}{DOWN}" keyaction="0" keyrepeat="0" active="false" blockmouse="true" randomisedelay="false" app="" desc="">
+		<TiltRight action="40" keys="{CTRL}{DOWN}" keyaction="2" keyrepeat="34" active="true" blockmouse="true" randomisedelay="false" app="" desc="">
 			<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 		</TiltRight>
 		<WheelUp action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" randomisedelay="false" app="" desc="">
@@ -404,13 +404,13 @@
 			<TiltLeft action="28" keys="{shift}{f2}" keyaction="0" keyrepeat="0" active="false" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</TiltLeft>
-			<TiltRight action="28" keys="{CTRL}{SHIFT}{F2}" keyaction="0" keyrepeat="0" active="false" blockmouse="false" blockmouseactive="false" randomisedelay="false" app="" desc="">
+			<TiltRight action="28" keys="{CTRL}f" keyaction="0" keyrepeat="0" active="false" blockmouse="false" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</TiltRight>
-			<WheelUp action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
+			<WheelUp action="28" keys="{MWUP}{MWUP}{MWUP}{MWUP}{MWUP}{MWUP}" keyaction="0" keyrepeat="0" active="false" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</WheelUp>
-			<WheelDown action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
+			<WheelDown action="28" keys="{MWDN}{MWDN}{MWDN}{MWDN}{MWDN}" keyaction="0" keyrepeat="0" active="false" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</WheelDown>
 			<Left_Layer1 action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
@@ -666,7 +666,7 @@
 			<Left action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</Left>
-			<Right action="40" keys="{SHIFT}{F9}" keyaction="0" keyrepeat="0" active="false" blockmouse="false" blockmouseactive="false" randomisedelay="false" app="" desc="">
+			<Right action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</Right>
 			<Middle action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
