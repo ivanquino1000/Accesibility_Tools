@@ -395,10 +395,10 @@
 			<Middle action="44" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</Middle>
-			<XLeft action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
+			<XLeft action="28" keys="{CTRL}f" keyaction="0" keyrepeat="0" active="false" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</XLeft>
-			<XRight action="40" keys="" keyaction="2" keyrepeat="34" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
+			<XRight action="28" keys="{shift}{f2}" keyaction="0" keyrepeat="0" active="false" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
 				<mts Lock="0" Sticky="false" StickyBlock="false" Block="true" InvV="false" InvH="false" SensitivityX="5" SensitivityY="5" NoMovementAction="6" keys="" keyaction="0" keyrepeat="0" active="true" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" />
 			</XRight>
 			<TiltLeft action="28" keys="{shift}{f2}" keyaction="0" keyrepeat="0" active="false" blockmouse="true" blockmouseactive="false" randomisedelay="false" app="" desc="">
